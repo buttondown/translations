@@ -1323,7 +1323,15 @@
         "tr": "E-posta adresiniz"
     },
     "web.form.placeholder.recipient_email": {
-        "en": "Who's the recipient of the gift?"
+        "en": "Who's the recipient of the gift?",
+        "es": "¿A quién le regalo?",
+        "fr": "À qui donne-t-on le cadeau ?",
+        "nl-NL": "Aan wie geeft men het cadeau?",
+        "pl-PL": "Komu daje się prezent?",
+        "pt-BR": "Para quem dá o presente?",
+        "tr": "Hediye kimine veriliyor?",
+        "cs-CZ": "Komu dáváš dárek?",
+        "de": "An wen gibt man das Geschenk?"
     },
     "web.form.placeholder.email_with_example": {
         "cs-CZ": "Tvá e-mailová adresa (ty@priklad.cz)",
