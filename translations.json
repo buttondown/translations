@@ -1322,6 +1322,9 @@
         "pt-BR": "Seu endereço de e-mail",
         "tr": "E-posta adresiniz"
     },
+    "web.form.placeholder.recipient_email": {
+        "en": "Who's the recipient of the gift?"
+    },
     "web.form.placeholder.email_with_example": {
         "cs-CZ": "Tvá e-mailová adresa (ty@priklad.cz)",
         "de": "Ihre E-Mail-Adresse (sie@beispiel.de)",
