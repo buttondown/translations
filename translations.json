@@ -2455,6 +2455,39 @@
         "pt-BR": "Não quero mais receber esta newsletter.",
         "tr": "Bu bülteni artık almak istemiyorum."
     },
+    "web.subscription.reason.spam": {
+        "cs-CZ": "Tento newsletter je spam.",
+        "de": "Dieser Newsletter ist Spam.",
+        "en": "This newsletter is spam.",
+        "es": "Este boletín es spam.",
+        "fr": "Cette newsletter est du spam.",
+        "nl-NL": "Deze nieuwsbrief is spam.",
+        "pl-PL": "Ten newsletter jest spamem.",
+        "pt-BR": "Esta newsletter é spam.",
+        "tr": "Bu bülten spamdir."
+    },
+    "web.subscription.reason.rss": {
+        "cs-CZ": "Přihlásil(a) jsem se raději přes RSS.",
+        "de": "Ich habe mich stattdessen über RSS angemeldet.",
+        "en": "I subscribed via RSS instead.",
+        "es": "Me suscribí a través de RSS en lugar de.",
+        "fr": "Je m'abonné via RSS au lieu de.",
+        "nl-NL": "Ik ben via RSS geabonneerd in plaats van.",
+        "pl-PL": "Zasubskrybowałem przez RSS zamiast.",
+        "pt-BR": "Me inscrevi via RSS em vez de.",
+        "tr": "RSS üzerinden abone oldum."
+    },
+    "web.subscription.reason.inappropriate": {
+        "cs-CZ": "Tento newsletter je nevhodný.",
+        "de": "Dieser Newsletter ist unangemessen.",
+        "en": "This newsletter is inappropriate.",
+        "es": "Este boletín es inapropiado.",
+        "fr": "Cette newsletter est inapropriée.",
+        "nl-NL": "Deze nieuwsbrief is ongepast.",
+        "pl-PL": "Ten newsletter jest nieodpowiedni.",
+        "pt-BR": "Esta newsletter é inapropriada.",
+        "tr": "Bu bülten uygunsuzdur."
+    },
     "web.survey.message.already_answered": {
         "cs-CZ": "Už jste odpověděli na otázku položenou",
         "de": "Sie haben die Frage von bereits beantwortet",
