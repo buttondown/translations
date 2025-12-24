@@ -201,7 +201,7 @@
         "cs-CZ": "Přeposlal ti tohle někdo? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Přihlas se k odebíraní newsletteru</a>.",
         "de": "Wurde dir dieses E-Mail weitergeleitet? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Newsletter abonnieren</a>.",
         "en": "Did someone forward you this? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Subscribe to this newsletter</a>.",
-        "es": "¿Alguien te envío este boletín? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Suscríbete gratis ahora</a>.",
+        "es": "¿Alguien te envió este boletín? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Suscríbete gratis ahora</a>.",
         "fr": "Quelqu'un vous a transmis ceci? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Abonnez-vous à cette newsletter</a>.",
         "nl-NL": "Heeft iemand dit naar je doorgestuurd? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Abonneer je op deze nieuwsbrief</a>.",
         "pl-PL": "Ktoś przesłał Ci to dalej? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Zasubskrybuj ten newsletter</a>.",
