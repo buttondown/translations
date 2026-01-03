@@ -14,4 +14,5 @@ Supported languages include:
 | Dutch               | nl-NL |
 | Polish              | pl-PL |
 | Portuguese (Brazil) | pt-BR |
+| Russian             | ru    |
 | Turkish             | tr    |
