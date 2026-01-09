@@ -135,16 +135,16 @@
     "tr": "Bu e-posta size <a href=\"https://buttondown.com/refer/{{ newsletter.username }}\">Buttondown</a> tarafından sunulmuştur, bülteninizi başlatmanın ve büyütmenin en kolay yolu."
   },
   "email.footer.or_subscribe_below": {
-    "cs-CZ": ", nebo se přihlaste níže",
-    "de": ", oder abonnieren Sie unten",
-    "en": ", or subscribe below",
-    "es": ", o suscríbete abajo",
-    "fr": ", ou abonnez-vous ci-dessous",
-    "nl-NL": ", of abonneer je hieronder",
-    "pl-PL": ", lub zapisz się poniżej",
-    "pt-BR": ", ou inscreva-se abaixo",
-    "ru": " или подпишитесь ниже",
-    "tr": ", veya aşağıdan abone olun"
+    "cs-CZ": "nebo se přihlaste níže",
+    "de": "oder abonnieren Sie unten",
+    "en": "or subscribe below",
+    "es": "o suscríbete abajo",
+    "fr": "ou abonnez-vous ci-dessous",
+    "nl-NL": "of abonneer je hieronder",
+    "pl-PL": "lub zapisz się poniżej",
+    "pt-BR": "ou inscreva-se abaixo",
+    "ru": "или подпишитесь ниже",
+    "tr": "veya aşağıdan abone olun"
   },
   "email.footer.powered_by": {
     "cs-CZ": "S použitím <a href=\"https://buttondown.com/refer/{{ newsletter.username }}\">Buttondown</a>, nejlepšího způsobu, jak vytvořit a rozvíjet svůj newsletter.",
