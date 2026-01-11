@@ -23,7 +23,7 @@
     "nl-NL": "j F Y",
     "pl-PL": "j F Y",
     "pt-BR": "j \\d\\e F \\d\\e Y",
-    "ru": "F j, Y",
+    "ru": "j F Y",
     "tr": "j F Y"
   },
   "elsewhere": {
@@ -1496,13 +1496,13 @@
   "web.form.placeholder.search_archives": {
     "cs-CZ": "Hledat v archivech...",
     "de": "Archive durchsuchen...",
-    "en": "Search",
+    "en": "Search archives...",
     "es": "Buscar en archivos...",
     "fr": "Rechercher dans les archives...",
     "nl-NL": "Zoek in archieven...",
     "pl-PL": "Szukaj w archiwach...",
     "pt-BR": "Buscar nos arquivos...",
-    "ru": "Поиск",
+    "ru": "Поиск по архиву…",
     "tr": "Arşivlerde ara..."
   },
   "web.form.placeholder.what_do_you_think": {
@@ -1936,6 +1936,30 @@
     "pt-BR": "Postagem premium",
     "ru": "Премиум-пост",
     "tr": "Premium gönderi"
+  },
+  "web.search.no_results": {
+    "cs-CZ": "Nebyly nalezeny žádné výsledky pro „{query}“",
+    "de": "Keine Ergebnisse gefunden für „{query}“",
+    "en": "No results found for \"{query}\"",
+    "es": "No se encontraron resultados para \"{query}\"",
+    "fr": "Aucun résultat trouvé pour « {query} »",
+    "nl-NL": "Geen resultaten gevonden voor \"{query}\"",
+    "pl-PL": "Brak wyników dla „{query}“",
+    "pt-BR": "Nenhum resultado encontrado para \"{query}\"",
+    "ru": "Результаты по запросу «{query}» не найдены",
+    "tr": "\"{query}\" için sonuç bulunamadı"
+  },
+  "web.search.title": {
+    "cs-CZ": "Hledat v archivech",
+    "de": "Archive durchsuchen",
+    "en": "Search archives",
+    "es": "Buscar en archivos",
+    "fr": "Rechercher dans les archives",
+    "nl-NL": "Zoek in archieven",
+    "pl-PL": "Szukaj w archiwach",
+    "pt-BR": "Buscar nos arquivos",
+    "ru": "Поиск по архиву",
+    "tr": "Arşivlerde ara"
   },
   "web.social.action.share": {
     "cs-CZ": "Sdílet",
@@ -2536,6 +2560,18 @@
     "pt-BR": "Você se inscreveu com sucesso em",
     "ru": "Вы успешно подписались на",
     "tr": "Başarıyla abone oldunuz"
+  },
+  "web.subscription.message.subscribed_via": {
+    "cs-CZ": "Jste přihlášeni k odběru {newsletter} přes {email}.",
+    "de": "Sie haben {newsletter} über {email} abonniert.",
+    "en": "You're subscribed to {newsletter} via {email}.",
+    "es": "Estás suscrito a {newsletter} a través de {email}.",
+    "fr": "Vous êtes abonné à {newsletter} via {email}.",
+    "nl-NL": "Je bent geabonneerd op {newsletter} via {email}.",
+    "pl-PL": "Jesteś zapisany do {newsletter} przez {email}.",
+    "pt-BR": "Você está inscrito em {newsletter} via {email}.",
+    "ru": "Вы подписаны на {newsletter} через {email}.",
+    "tr": "{email} aracılığıyla {newsletter} aboneliğiniz bulunmaktadır."
   },
   "web.subscription.message.success": {
     "cs-CZ": "Úspěšné předplatné",
