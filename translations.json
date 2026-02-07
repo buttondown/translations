@@ -941,6 +941,42 @@
         "ru": "Посмотреть архив",
         "tr": "Arşivleri görüntüle"
     },
+    "web.cadence.annual": {
+        "cs-CZ": "Ročně",
+        "de": "Jährlich",
+        "en": "Annual",
+        "es": "Anual",
+        "fr": "Annuel",
+        "nl-NL": "Jaarlijks",
+        "pl-PL": "Roczny",
+        "pt-BR": "Anual",
+        "ru": "Годовая",
+        "tr": "Yıllık"
+    },
+    "web.cadence.monthly": {
+        "cs-CZ": "Měsíčně",
+        "de": "Monatlich",
+        "en": "Monthly",
+        "es": "Mensual",
+        "fr": "Mensuel",
+        "nl-NL": "Maandelijks",
+        "pl-PL": "Miesięczny",
+        "pt-BR": "Mensal",
+        "ru": "Ежемесячная",
+        "tr": "Aylık"
+    },
+    "web.cadence.one_time": {
+        "cs-CZ": "Jednorázově",
+        "de": "Einmalig",
+        "en": "One-time",
+        "es": "Único",
+        "fr": "Unique",
+        "nl-NL": "Eenmalig",
+        "pl-PL": "Jednorazowy",
+        "pt-BR": "Único",
+        "ru": "Разовая",
+        "tr": "Tek seferlik"
+    },
     "web.comment.error.account_invalid": {
         "cs-CZ": "Účet není platný.",
         "de": "Konto ist nicht gültig.",
@@ -1348,6 +1384,18 @@
         "pt-BR": "Mensagem para o presente",
         "ru": "Сообщение для подарка",
         "tr": "Hediye için mesaj"
+    },
+    "web.form.label.choose_your_amount": {
+        "cs-CZ": "Zvolte svou částku",
+        "de": "Wählen Sie Ihren Betrag",
+        "en": "Choose your amount",
+        "es": "Elige tu monto",
+        "fr": "Choisissez votre montant",
+        "nl-NL": "Kies uw bedrag",
+        "pl-PL": "Wybierz swoją kwotę",
+        "pt-BR": "Escolha o valor",
+        "ru": "Выберите сумму",
+        "tr": "Tutarınızı seçin"
     },
     "web.form.label.reason": {
         "cs-CZ": "Důvod",
