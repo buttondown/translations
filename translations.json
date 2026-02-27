@@ -1916,6 +1916,19 @@
         "tr": "Hata",
         "sv-SE": "Fel"
     },
+    "web.message.error.custom_domain_unavailable": {
+        "cs-CZ": "Tento newsletter není na této doméně momentálně k dispozici.",
+        "de": "Dieser Newsletter ist auf dieser Domain derzeit nicht verfügbar.",
+        "en": "This newsletter is currently unavailable on this domain.",
+        "es": "Este boletín no está disponible actualmente en este dominio.",
+        "fr": "Cette newsletter n'est actuellement pas disponible sur ce domaine.",
+        "nl-NL": "Deze nieuwsbrief is momenteel niet beschikbaar op dit domein.",
+        "pl-PL": "Ten newsletter nie jest obecnie dostępny w tej domenie.",
+        "pt-BR": "Este boletim não está disponível atualmente neste domínio.",
+        "ru": "Эта рассылка в настоящее время недоступна на этом домене.",
+        "tr": "Bu bülten şu anda bu domainde mevcut değil.",
+        "sv-SE": "Detta nyhetsbrev är för närvarande inte tillgängligt på denna domän."
+    },
     "web.modal.you_ve_successfully_upgraded_to_premium": {
         "cs-CZ": "Úspěšně jste upgradovali na premium! Začněte prozkoumáváním archivů nebo správou předplatného.",
         "de": "Sie haben erfolgreich auf Premium aktualisiert! Beginnen Sie mit der Erkundung der Archive oder der Verwaltung Ihres Abonnements.",
