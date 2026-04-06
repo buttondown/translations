@@ -12,6 +12,7 @@ Supported languages include:
 | Spanish             | es    |
 | French              | fr    |
 | Dutch               | nl-NL |
+| Nepali              | ne    |
 | Polish              | pl-PL |
 | Portuguese (Brazil) | pt-BR |
 | Russian             | ru    |
