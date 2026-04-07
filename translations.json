@@ -352,6 +352,20 @@
         "sv-SE": "Vill du läsa hela brevet?",
         "ne": "पूरा अंक पढ्न चाहनुहुन्छ?"
     },
+    "email.subscriber.cta.read_full_issue": {
+        "cs-CZ": "Chceš si přečíst celé vydání? Přihlas se k odběru zdarma.",
+        "de": "Möchten Sie die vollständige Ausgabe lesen? Abonnieren Sie kostenlos.",
+        "en": "Want to read the full issue? Subscribe for free.",
+        "es": "¿Quieres leer la edición completa? Suscríbete gratis.",
+        "fr": "Voulez-vous lire l'édition complète? Abonnez-vous gratuitement.",
+        "nl-NL": "Wil je de volledige editie lezen? Schrijf je gratis in.",
+        "pl-PL": "Chcesz przeczytać pełne wydanie? Zapisz się za darmo.",
+        "pt-BR": "Quer ler a edição completa? Inscreva-se gratuitamente.",
+        "ru": "Хотите прочитать весь выпуск? Подпишитесь бесплатно.",
+        "tr": "Tam sayısını okumak ister misiniz? Ücretsiz abone olun.",
+        "sv-SE": "Vill du läsa hela brevet? Prenumerera gratis.",
+        "ne": "पूरा अंक पढ्न चाहनुहुन्छ? निःशुल्क सदस्यता लिनुहोस्।"
+    },
     "email.premium.message.can_upgrade": {
         "cs-CZ": "Kdykoliv si také můžeš <a href=\"{{ url }}\">předplatit premium</a>.",
         "de": "Sie können auch jederzeit <a href=\"{{ url }}\">auf Premium upgraden</a>.",
