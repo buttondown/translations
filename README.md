@@ -15,6 +15,7 @@ Supported languages include:
 | Nepali              | ne    |
 | Polish              | pl-PL |
 | Portuguese (Brazil) | pt-BR |
+| Portuguese (Portugal) | pt-PT |
 | Russian             | ru    |
 | Swedish             | sv-SE |
 | Turkish             | tr    |
