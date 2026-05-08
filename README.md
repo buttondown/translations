@@ -13,8 +13,10 @@ Supported languages include:
 | French              | fr    |
 | Dutch               | nl-NL |
 | Nepali              | ne    |
+| Norwegian           | nb-NO |
 | Polish              | pl-PL |
 | Portuguese (Brazil) | pt-BR |
+| Portuguese (Portugal) | pt-PT |
 | Russian             | ru    |
 | Swedish             | sv-SE |
 | Turkish             | tr    |
