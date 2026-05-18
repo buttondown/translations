@@ -1790,6 +1790,23 @@
     "ne": "छलफलमा सामेल हुनुहोस्:",
     "et": "Liitu aruteluga"
   },
+  "web.comment.message.subscribe_disclosure": {
+    "cs-CZ": "Nejsi přihlášen/a. Odesláním tohoto komentáře se přihlásíš k odběru tohoto newsletteru s e-mailovou adresou, kterou zadáš níže.",
+    "de": "Sie sind nicht angemeldet. Wenn Sie diesen Kommentar veröffentlichen, abonnieren Sie diesen Newsletter mit der unten eingegebenen E-Mail-Adresse.",
+    "en": "You're not signed in. Posting this comment will subscribe you to this newsletter with the email address you enter below.",
+    "es": "No has iniciado sesión. Al publicar este comentario, te suscribirás a este boletín con la dirección de correo electrónico que indiques a continuación.",
+    "fr": "Vous n'êtes pas connecté·e. En publiant ce commentaire, vous vous abonnerez à cette newsletter avec l'adresse e-mail saisie ci-dessous.",
+    "nl-NL": "Je bent niet ingelogd. Door deze reactie te plaatsen, abonneer je je op deze nieuwsbrief met het hieronder ingevulde e-mailadres.",
+    "pl-PL": "Nie jesteś zalogowany(-a). Opublikowanie tego komentarza spowoduje zapisanie się do tego newslettera za pomocą podanego poniżej adresu e-mail.",
+    "pt-BR": "Você não está conectado. Ao publicar este comentário, você se inscreverá nesta newsletter com o endereço de e-mail informado abaixo.",
+    "pt-PT": "Não tem sessão iniciada. Ao publicar este comentário, irá subscrever esta newsletter com o endereço de e-mail introduzido abaixo.",
+    "ru": "Вы не вошли в систему. Отправляя этот комментарий, вы подпишетесь на эту рассылку с указанным ниже адресом электронной почты.",
+    "tr": "Oturum açmadınız. Bu yorumu göndermek, sizi aşağıda gireceğiniz e-posta adresiyle bu bültene abone yapacaktır.",
+    "sv-SE": "Du är inte inloggad. Genom att publicera den här kommentaren prenumererar du på det här nyhetsbrevet med e-postadressen du anger nedan.",
+    "nb-NO": "Du er ikke logget inn. Når du publiserer denne kommentaren, abonnerer du på dette nyhetsbrevet med e-postadressen du oppgir nedenfor.",
+    "ne": "तपाईं लग इन हुनुभएको छैन। यो टिप्पणी पोस्ट गर्दा तपाईं तल प्रविष्ट गर्नुहुने इमेल ठेगानाबाट यो न्यूजलेटरमा सदस्यता लिनुहुनेछ।",
+    "et": "Sa pole sisse logitud. Selle kommentaari postitamine tellib sind sellele uudiskirjale alloleva e-posti aadressiga."
+  },
   "web.email.attachment.download": {
     "cs-CZ": "Stáhnout",
     "de": "Herunterladen",
