@@ -410,6 +410,12 @@
     "ne": "यो न्यूजलेटरलाई समर्थन गर्न चाहनुहुन्छ? <a href=\"{{ premium_subscribe_url }}\">प्रिमियम सदस्यता लिनुहोस्</a>.",
     "et": "Soovid seda uudiskirja toetada? <a href=\"{{ premium_subscribe_url }}\">Telli tasuline versioon</a>."
   },
+  "email.premium.action.free_subscribe": {
+    "en": "Or sign up for a free subscription"
+  },
+  "email.premium.action.subscribe_for_price": {
+    "en": "Subscribe for {{ price }}"
+  },
   "email.premium.action.upsell": {
     "cs-CZ": "Předplať si premium",
     "de": "Einen Premium-Abo abonnieren",
