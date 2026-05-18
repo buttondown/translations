@@ -411,10 +411,38 @@
     "et": "Soovid seda uudiskirja toetada? <a href=\"{{ premium_subscribe_url }}\">Telli tasuline versioon</a>."
   },
   "email.premium.action.free_subscribe": {
-    "en": "Or sign up for a free subscription"
+    "cs-CZ": "Nebo se přihlas k odběru zdarma",
+    "de": "Oder abonnieren Sie kostenlos",
+    "en": "Or sign up for a free subscription",
+    "es": "O suscríbete gratis",
+    "fr": "Ou abonnez-vous gratuitement",
+    "nl-NL": "Of schrijf je gratis in",
+    "pl-PL": "Lub zapisz się za darmo",
+    "pt-BR": "Ou inscreva-se gratuitamente",
+    "pt-PT": "Ou subscreva gratuitamente",
+    "ru": "Или подпишитесь бесплатно",
+    "tr": "Veya ücretsiz abone olun",
+    "sv-SE": "Eller prenumerera gratis",
+    "nb-NO": "Eller registrer deg gratis",
+    "ne": "वा निःशुल्क सदस्यता लिनुहोस्",
+    "et": "Või telli tasuta"
   },
   "email.premium.action.subscribe_for_price": {
-    "en": "Subscribe for {{ price }}"
+    "cs-CZ": "Odebírej za {{ price }}",
+    "de": "Für {{ price }} abonnieren",
+    "en": "Subscribe for {{ price }}",
+    "es": "Suscríbete por {{ price }}",
+    "fr": "S'abonner pour {{ price }}",
+    "nl-NL": "Abonneren voor {{ price }}",
+    "pl-PL": "Zapisz się za {{ price }}",
+    "pt-BR": "Inscreva-se por {{ price }}",
+    "pt-PT": "Subscreva por {{ price }}",
+    "ru": "Подписаться за {{ price }}",
+    "tr": "{{ price }} karşılığında abone ol",
+    "sv-SE": "Prenumerera för {{ price }}",
+    "nb-NO": "Abonner for {{ price }}",
+    "ne": "{{ price }} मा सदस्यता लिनुहोस्",
+    "et": "Telli hinnaga {{ price }}"
   },
   "email.premium.action.upsell": {
     "cs-CZ": "Předplať si premium",
