@@ -2691,6 +2691,23 @@
     "ne": "तपाईंले सफलतापूर्वक प्रिमियममा अपग्रेड गर्नुभयो! अब अभिलेखहरू हेरेर वा आफ्नो सदस्यता व्यवस्थापन गरेर सुरु गर्नुहोस्.",
     "et": "Oled edukalt uuendanud tasulisele tellimusele! Alusta arhiivi sirvimisest või halda oma tellimust."
   },
+  "web.navigation.account": {
+    "cs-CZ": "Účet",
+    "de": "Konto",
+    "en": "Account",
+    "es": "Cuenta",
+    "fr": "Compte",
+    "nl-NL": "Account",
+    "pl-PL": "Konto",
+    "pt-BR": "Conta",
+    "pt-PT": "Conta",
+    "ru": "Аккаунт",
+    "tr": "Hesap",
+    "sv-SE": "Konto",
+    "nb-NO": "Konto",
+    "ne": "खाता",
+    "et": "Konto"
+  },
   "web.navigation.archive": {
     "cs-CZ": "Archiv",
     "de": "Archiv",
