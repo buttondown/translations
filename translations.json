@@ -2504,6 +2504,23 @@
     "ne": "ट्याग धेरै लामो छ",
     "et": "Silt on liiga pikk."
   },
+  "web.message.archive_disabled_description": {
+    "cs-CZ": "Veřejný archiv tohoto newsletteru je vypnutý. Můžeš se ale přihlásit níže k odběru nových e-mailů.",
+    "de": "Das öffentliche Archiv dieses Newsletters ist deaktiviert. Sie können ihn aber unten abonnieren, um neue Beiträge zu erhalten.",
+    "en": "This newsletter's public archive is turned off. You can still subscribe below to receive new posts.",
+    "es": "El archivo público de este boletín está desactivado. Aún puedes suscribirte a continuación para recibir nuevas publicaciones.",
+    "fr": "Les archives publiques de cette newsletter sont désactivées. Vous pouvez toujours vous abonner ci-dessous pour recevoir les nouveaux articles.",
+    "nl-NL": "Het openbare archief van deze nieuwsbrief is uitgeschakeld. Je kunt je hieronder nog steeds abonneren om nieuwe berichten te ontvangen.",
+    "pl-PL": "Publiczne archiwum tego newslettera jest wyłączone. Możesz jednak zapisać się poniżej, aby otrzymywać nowe posty.",
+    "pt-BR": "O arquivo público desta newsletter está desativado. Você ainda pode se inscrever abaixo para receber novos posts.",
+    "pt-PT": "O arquivo público desta newsletter está desativado. Ainda pode subscrever abaixo para receber novos artigos.",
+    "ru": "Публичный архив этой рассылки отключён. Вы можете подписаться ниже, чтобы получать новые письма.",
+    "tr": "Bu bültenin halka açık arşivi kapatılmıştır. Yine de yeni gönderiler almak için aşağıdan abone olabilirsiniz.",
+    "sv-SE": "Det offentliga arkivet för detta nyhetsbrev är avstängt. Du kan fortfarande prenumerera nedan för att få nya inlägg.",
+    "nb-NO": "Det offentlige arkivet for dette nyhetsbrevet er slått av. Du kan likevel abonnere nedenfor for å motta nye innlegg.",
+    "ne": "यस न्यूजलेटरको सार्वजनिक अभिलेख बन्द छ. तर तपाईं नयाँ इमेल प्राप्त गर्न तल सदस्यता लिन सक्नुहुन्छ.",
+    "et": "Selle uudiskirja avalik arhiiv on välja lülitatud. Saad siiski allpool tellida, et uusi väljaandeid saada."
+  },
   "web.message.empty.author_no_emails": {
     "cs-CZ": "Autor tohoto newsletteru zatím nezveřejnil žádné veřejné e-maily! Když to udělá, budou zde.",
     "de": "Der Autor dieses Newsletters hat noch keine öffentlichen E-Mails veröffentlicht! Wenn sie es tun, werden sie hier sein.",
@@ -2537,6 +2554,23 @@
     "nb-NO": "Denne forfatteren har ikke publisert noe nyhetsbrev ennå.",
     "ne": "यस लेखकले अहिलेसम्म कुनै इमेल प्रकाशित गरेका छैनन्.",
     "et": "Autor ei ole ühtegi uudiskirja veel avaldanud."
+  },
+  "web.message.error.archive_unavailable": {
+    "cs-CZ": "Archiv není k dispozici",
+    "de": "Archiv nicht verfügbar",
+    "en": "Archive unavailable",
+    "es": "Archivo no disponible",
+    "fr": "Archives indisponibles",
+    "nl-NL": "Archief niet beschikbaar",
+    "pl-PL": "Archiwum niedostępne",
+    "pt-BR": "Arquivo indisponível",
+    "pt-PT": "Arquivo indisponível",
+    "ru": "Архив недоступен",
+    "tr": "Arşiv kullanılamıyor",
+    "sv-SE": "Arkivet är inte tillgängligt",
+    "nb-NO": "Arkivet er ikke tilgjengelig",
+    "ne": "अभिलेख उपलब्ध छैन",
+    "et": "Arhiiv pole saadaval"
   },
   "web.message.error.check_newsletter_name": {
     "cs-CZ": "Zkontroluj prosím název newsletteru a zkus to znovu.",
