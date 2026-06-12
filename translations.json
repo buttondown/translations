@@ -3592,6 +3592,23 @@
     "ne": "CAPTCHA प्रमाणीकरण असफल भयो. कृपया फेरि प्रयास गर्नुहोस्.",
     "et": "CAPTCHA kontroll ebaõnnestus. Palun proovi uuesti."
   },
+  "web.subscription.error.captcha_unavailable": {
+    "cs-CZ": "Nepodařilo se nám načíst ověřovací výzvu. Zakažte prosím veškeré sledovací nebo ochranné blokátory pro tuto stránku a obnovte ji.",
+    "de": "Wir konnten die Verifizierungsaufgabe nicht laden. Bitte deaktivieren Sie alle Tracking- oder Datenschutz-Blocker für diese Seite und laden Sie sie neu.",
+    "en": "We couldn't load the verification challenge. Please disable any tracking or privacy blockers for this page and reload.",
+    "es": "No pudimos cargar el desafío de verificación. Desactiva cualquier bloqueador de rastreo o privacidad para esta página y vuelve a cargarla.",
+    "fr": "Nous n'avons pas pu charger le défi de vérification. Veuillez désactiver tout bloqueur de suivi ou de confidentialité pour cette page et recharger.",
+    "nl-NL": "We konden de verificatie-uitdaging niet laden. Schakel eventuele tracking- of privacyblokkers voor deze pagina uit en herlaad de pagina.",
+    "pl-PL": "Nie udało się załadować wyzwania weryfikacyjnego. Wyłącz wszelkie blokady śledzenia lub prywatności dla tej strony i odśwież ją.",
+    "pt-BR": "Não conseguimos carregar o desafio de verificação. Desative quaisquer bloqueadores de rastreamento ou privacidade para esta página e recarregue.",
+    "pt-PT": "Não foi possível carregar o desafio de verificação. Desative quaisquer bloqueadores de rastreio ou privacidade para esta página e recarregue.",
+    "ru": "Не удалось загрузить проверочное задание. Пожалуйста, отключите все блокировщики отслеживания или конфиденциальности для этой страницы и перезагрузите её.",
+    "tr": "Doğrulama görevini yükleyemedik. Lütfen bu sayfa için tüm izleme veya gizlilik engelleyicilerini devre dışı bırakın ve sayfayı yeniden yükleyin.",
+    "sv-SE": "Vi kunde inte ladda verifieringsutmaningen. Inaktivera eventuella spårnings- eller integritetsblockerare för den här sidan och ladda om.",
+    "nb-NO": "Vi kunne ikke laste inn verifiseringsutfordringen. Deaktiver eventuelle sporings- eller personvernblokkere for denne siden og last inn på nytt.",
+    "ne": "हामी प्रमाणीकरण चुनौती लोड गर्न सकेनौं। कृपया यस पृष्ठका लागि कुनै पनि ट्र्याकिङ वा गोपनीयता ब्लकरहरू असक्षम पार्नुहोस् र पुनः लोड गर्नुहोस्।",
+    "et": "Me ei saanud kontrollülesannet laadida. Palun keela selle lehe jaoks kõik jälgimis- või privaatsusblokeerijad ja laadi leht uuesti."
+  },
   "web.subscription.error.cookie_email_mismatch": {
     "cs-CZ": "Nedávno jste se přihlásili pomocí jiné e-mailové adresy. Počkejte prosím několik minut a zkuste to znovu.",
     "de": "Sie haben sich kürzlich mit einer anderen E-Mail-Adresse angemeldet. Bitte warten Sie einige Minuten und versuchen Sie es erneut.",
