@@ -2147,6 +2147,23 @@
     "ne": "उपहारका लागि सन्देश",
     "et": "Kingituse sõnum"
   },
+  "web.form.label.promo_code": {
+    "cs-CZ": "Promo kód",
+    "de": "Aktionscode",
+    "en": "Promo code",
+    "es": "Código promocional",
+    "fr": "Code promo",
+    "nl-NL": "Promotiecode",
+    "pl-PL": "Kod promocyjny",
+    "pt-BR": "Código promocional",
+    "pt-PT": "Código promocional",
+    "ru": "Промокод",
+    "tr": "Promosyon kodu",
+    "sv-SE": "Kampanjkod",
+    "nb-NO": "Kampanjekode",
+    "ne": "प्रोमो कोड",
+    "et": "Sooduskood"
+  },
   "web.form.label.choose_your_amount": {
     "cs-CZ": "Zvolte svou částku",
     "de": "Wählen Sie Ihren Betrag",
@@ -2282,6 +2299,23 @@
     "nb-NO": "Hvem er gavens mottaker?",
     "ne": "उपहार प्राप्त गर्ने व्यक्तिको इमेल",
     "et": "Kes on kingituse saaja?"
+  },
+  "web.form.placeholder.promo_code": {
+    "cs-CZ": "Máte promo kód?",
+    "de": "Haben Sie einen Aktionscode?",
+    "en": "Have a promo code?",
+    "es": "¿Tienes un código promocional?",
+    "fr": "Vous avez un code promo ?",
+    "nl-NL": "Heeft u een promotiecode?",
+    "pl-PL": "Masz kod promocyjny?",
+    "pt-BR": "Tem um código promocional?",
+    "pt-PT": "Tem um código promocional?",
+    "ru": "Есть промокод?",
+    "tr": "Promosyon kodunuz var mı?",
+    "sv-SE": "Har du en kampanjkod?",
+    "nb-NO": "Har du en kampanjekode?",
+    "ne": "प्रोमो कोड छ?",
+    "et": "Kas teil on sooduskood?"
   },
   "web.form.placeholder.email_with_example": {
     "cs-CZ": "Tvá e-mailová adresa (ty@priklad.cz)",
