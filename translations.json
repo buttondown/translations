@@ -3167,6 +3167,23 @@
     "ne": "भुक्तानी विधि प्रशोधन गर्न सकिएन.",
     "et": "Makseviisi töötlemine ebaõnnestus."
   },
+  "web.payment.or_pay_with_card": {
+    "cs-CZ": "Nebo zaplaťte kartou",
+    "de": "Oder mit Karte bezahlen",
+    "en": "Or pay with card",
+    "es": "O paga con tarjeta",
+    "fr": "Ou payer par carte",
+    "nl-NL": "Of betaal met kaart",
+    "pl-PL": "Lub zapłać kartą",
+    "pt-BR": "Ou pague com cartão",
+    "pt-PT": "Ou pague com cartão",
+    "ru": "Или оплатите картой",
+    "tr": "Veya kartla ödeyin",
+    "sv-SE": "Eller betala med kort",
+    "nb-NO": "Eller betal med kort",
+    "ne": "वा कार्डबाट भुक्तानी गर्नुहोस्",
+    "et": "Või maksa kaardiga"
+  },
   "web.post.label.free": {
     "cs-CZ": "Příspěvek zadarmo",
     "de": "Kostenloser Beitrag",
