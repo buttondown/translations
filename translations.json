@@ -3116,23 +3116,6 @@
     "ne": "भुक्तानी फारम सुरु गर्न सकिएन.",
     "et": "Maksevormi laadimine ebaõnnestus."
   },
-  "web.payment.error.no_pricing": {
-    "cs-CZ": "Žádné cenové možnosti nejsou k dispozici.",
-    "de": "Keine Preisoptionen verfügbar.",
-    "en": "No pricing options available.",
-    "es": "No hay opciones de precio disponibles.",
-    "fr": "Aucune option de tarification disponible.",
-    "nl-NL": "Geen prijsopties beschikbaar.",
-    "pl-PL": "Brak dostępnych opcji cenowych.",
-    "pt-BR": "Nenhuma opção de preço disponível.",
-    "pt-PT": "Não há opções de preços disponíveis.",
-    "ru": "Нет доступных вариантов цен.",
-    "tr": "Fiyat seçenekleri mevcut değil.",
-    "sv-SE": "Inga prisalternativ tillgängliga.",
-    "nb-NO": "Ingen prisalternativ er tilgjengelige.",
-    "ne": "कुनै मूल्य विकल्प उपलब्ध छैन.",
-    "et": "Hinnakirja ei leitud."
-  },
   "web.payment.error.payment_failed": {
     "cs-CZ": "Platba se nezdařila. Zkuste to prosím znovu.",
     "de": "Zahlung fehlgeschlagen. Bitte versuchen Sie es erneut.",
