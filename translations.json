@@ -5138,7 +5138,7 @@
   "web.subscription.message.subscribed_via": {
     "cs-CZ": "Jste přihlášeni k odběru {newsletter} přes {email}.",
     "de": "Sie haben {newsletter} über {email} abonniert.",
-    "en": "You're subscribed to {newsletter} via {email}.",
+    "en": "You're already subscribed to {newsletter} via {email}.",
     "es": "Estás suscrito a {newsletter} a través de {email}.",
     "fi-FI": "Olet tilannut uutiskirjeen {newsletter} osoitteella {email}.",
     "fr": "Vous êtes abonné à {newsletter} via {email}.",
