@@ -705,25 +705,6 @@
     "et": "[Kliki siia, et kinnitada]({{ confirmation_url }}) oma [{{ newsletter.name }}]({{ newsletter_link }}) uudiskirja tellimus!",
     "ja-JP": "[{{ newsletter.name }}]({{ newsletter_link }})への購読を確定するには、[こちらをクリック]({{ confirmation_url }})してください！"
   },
-  "email.subscription.action.confirm_button": {
-    "cs-CZ": "Potvrď svůj odběr",
-    "de": "Abonnement bestätigen",
-    "en": "Confirm subscription",
-    "es": "Confirma tu suscripción",
-    "fi-FI": "Vahvista tilauksesi",
-    "fr": "Confirmez votre abonnement",
-    "nl-NL": "Bevestig je abonnement",
-    "pl-PL": "Potwierdź subskrypcję",
-    "pt-BR": "Confirme sua assinatura",
-    "pt-PT": "Confirme a sua subscrição",
-    "ru": "Подтвердите подписку",
-    "tr": "Aboneliğinizi onaylayın",
-    "sv-SE": "Bekräfta din prenumeration",
-    "nb-NO": "Bekreft abonnementet",
-    "ne": "आफ्नो सदस्यता पुष्टि गर्नुहोस्",
-    "et": "Kinnita oma tellimus",
-    "ja-JP": "購読を確定する"
-  },
   "email.subscription.message.credit_card_charged_shortly": {
     "cs-CZ": "Za chvíli bys měl vidět strženou platbu na své kartě (nebo jinde, pokud platíš jiným způsobem). Ještě jednou dík za předplacení!",
     "de": "Die Belastung Ihrer Kreditkarte (oder der gewählten Zahlungsmethode) sollte in Kürze erfolgen. Nochmals vielen Dank für Ihr Abonnement!",
