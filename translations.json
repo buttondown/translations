@@ -1943,6 +1943,25 @@
     "et": "Lisa kommentaar",
     "ja-JP": "コメントを追加"
   },
+  "web.comment.message.awaiting_confirmation": {
+    "cs-CZ": "Tento komentář vidíš zatím jen ty — potvrď odběr přes e-mail, který jsme ti poslali, a zveřejní se.",
+    "de": "Nur Sie können diesen Kommentar sehen — bestätigen Sie Ihr Abonnement über die E-Mail in Ihrem Posteingang, um ihn zu veröffentlichen.",
+    "en": "Only you can see this comment — confirm your subscription via the email in your inbox to publish it.",
+    "es": "Solo tú puedes ver este comentario: confirma tu suscripción con el correo que te enviamos para publicarlo.",
+    "fi-FI": "Vain sinä näet tämän kommentin — vahvista tilauksesi sähköpostiisi lähetetystä viestistä, niin se julkaistaan.",
+    "fr": "Vous seul pouvez voir ce commentaire — confirmez votre abonnement via l'e-mail reçu pour le publier.",
+    "nl-NL": "Alleen jij kunt deze reactie zien — bevestig je abonnement via de e-mail in je inbox om deze te publiceren.",
+    "pl-PL": "Tylko Ty widzisz ten komentarz — potwierdź subskrypcję przez e-mail w swojej skrzynce, aby go opublikować.",
+    "pt-BR": "Somente você pode ver este comentário — confirme sua inscrição pelo e-mail na sua caixa de entrada para publicá-lo.",
+    "pt-PT": "Só você pode ver este comentário — confirme a sua subscrição através do e-mail na sua caixa de entrada para o publicar.",
+    "ru": "Этот комментарий видите только вы — подтвердите подписку по письму в вашей почте, чтобы опубликовать его.",
+    "tr": "Bu yorumu yalnızca siz görebilirsiniz — yayınlamak için gelen kutunuzdaki e-posta ile aboneliğinizi onaylayın.",
+    "sv-SE": "Bara du kan se den här kommentaren — bekräfta din prenumeration via mejlet i din inkorg för att publicera den.",
+    "nb-NO": "Bare du kan se denne kommentaren — bekreft abonnementet ditt via e-posten i innboksen for å publisere den.",
+    "ne": "यो टिप्पणी तपाईंले मात्र देख्न सक्नुहुन्छ — प्रकाशित गर्न आफ्नो इनबक्सको इमेलबाट सदस्यता पुष्टि गर्नुहोस्।",
+    "et": "Seda kommentaari näed ainult sina — avaldamiseks kinnita oma tellimus postkasti saadetud e-kirja kaudu.",
+    "ja-JP": "このコメントはあなたにのみ表示されています。公開するには、受信トレイのメールから購読を確認してください。"
+  },
   "web.comment.message.delete_warning": {
     "cs-CZ": "Smazání tohoto komentáře jej odstraní z e-mailu a také smaže všechny odpovědi na něj.",
     "de": "Das Löschen dieses Kommentars entfernt ihn aus der E-Mail und löscht auch alle Antworten darauf.",
