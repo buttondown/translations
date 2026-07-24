@@ -4014,25 +4014,6 @@
     "et": "Telli ja alusta {{ newsletter.paid_subscription_free_trial_duration }}-päevast tasuta prooviperioodi",
     "ja-JP": "{{ newsletter.paid_subscription_free_trial_duration }}日間の無料トライアルを開始"
   },
-  "web.subscription.action.validating": {
-    "cs-CZ": "Ověřuji...",
-    "de": "Wird validiert...",
-    "en": "Validating...",
-    "es": "Validando...",
-    "fi-FI": "Tarkistetaan...",
-    "fr": "Validation...",
-    "nl-NL": "Valideren...",
-    "pl-PL": "Walidacja...",
-    "pt-BR": "Validando...",
-    "pt-PT": "A validar...",
-    "ru": "Проверка...",
-    "tr": "Doğrulanıyor...",
-    "sv-SE": "Validerar...",
-    "nb-NO": "Validerer …",
-    "ne": "प्रमाणीकरण हुँदै...",
-    "et": "Valideerin...",
-    "ja-JP": "確認中..."
-  },
   "web.subscription.action.verify_and_subscribe": {
     "cs-CZ": "Ověřit a přihlásit se",
     "de": "Überprüfen und abonnieren",
