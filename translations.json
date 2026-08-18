@@ -2422,6 +2422,26 @@
     "et": "Ära jää ilma. Telli {{ newsletter.name }}:",
     "ja-JP": "次回の配信もお見逃しなく！{{ newsletter.name }} のメルマガ購読はこちら："
   },
+  "web.form.hint.select_multiple": {
+    "cs-CZ": "Vyberte, kolik chcete",
+    "de": "Wähle so viele aus, wie du möchtest",
+    "en": "Pick as many as you like",
+    "es": "Elige tantas como quieras",
+    "it": "Scegline quante vuoi",
+    "fi-FI": "Valitse niin monta kuin haluat",
+    "fr": "Choisissez-en autant que vous voulez",
+    "nl-NL": "Kies er zoveel als je wilt",
+    "pl-PL": "Wybierz tyle, ile chcesz",
+    "pt-BR": "Escolha quantas quiser",
+    "pt-PT": "Escolha quantas quiser",
+    "ru": "Выберите столько, сколько хотите",
+    "tr": "İstediğiniz kadar seçin",
+    "sv-SE": "Välj så många du vill",
+    "nb-NO": "Velg så mange du vil",
+    "ne": "जति चाहनुहुन्छ, त्यति छान्नुहोस्",
+    "et": "Valige nii palju, kui soovite",
+    "ja-JP": "いくつでも選べます"
+  },
   "web.form.label.any_comment": {
     "cs-CZ": "Jakýkoli komentář",
     "de": "Irgendein Kommentar",
