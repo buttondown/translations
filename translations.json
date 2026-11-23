@@ -384,7 +384,7 @@
     },
     "email.modern.preamble": {
         "cs-CZ": "Přeposlal ti tohle někdo? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Přihlas se k odebíraní newsletteru</a>.",
-        "de": "Wurde dir diese E-Mail weitergeleitet? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Newsletter abonnieren</a>.",
+        "de": "Wurde Ihnen diese E-Mail weitergeleitet? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Newsletter abonnieren</a>.",
         "en": "Did someone forward you this? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Subscribe to this newsletter</a>.",
         "es": "¿Alguien te envió este boletín? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Suscríbete gratis ahora</a>.",
         "it": "Qualcuno ti ha inoltrato questa email? <a href=\"{{ subscribe_url }}\" target=\"_blank\">Iscriviti a questa newsletter</a>.",
@@ -424,7 +424,7 @@
     },
     "email.modern.unsubscribe": {
         "cs-CZ": "<a href=\"{{ unsubscribe_url }}\" target=\"_blank\">Zrušit odebírání</a> tohoto newsletteru.",
-        "de": "<a href=\"{{ unsubscribe_url }}\" target=\"_blank\">Abmelden</a> von diesem Newsletter.",
+        "de": "<a href=\"{{ unsubscribe_url }}\" target=\"_blank\">Von diesem Newsletter abmelden</a>.",
         "en": "<a href=\"{{ unsubscribe_url }}\" target=\"_blank\">Unsubscribe</a> from this newsletter.",
         "es": "<a href=\"{{ unsubscribe_url }}\" target=\"_blank\">Date de baja</a> de nuestro boletín.",
         "it": "<a href=\"{{ unsubscribe_url }}\" target=\"_blank\">Annulla l'iscrizione</a> a questa newsletter.",
@@ -524,7 +524,7 @@
     },
     "email.premium.action.upsell": {
         "cs-CZ": "Předplať si premium",
-        "de": "Einen Premium-Abo abonnieren",
+        "de": "Ein Premium-Abo abschließen",
         "en": "Sign up for a premium subscription",
         "es": "Suscríbete a un plan premium",
         "it": "Iscriviti a un abbonamento premium",
@@ -704,7 +704,7 @@
     },
     "email.rss.suggestion_prefix": {
         "cs-CZ": "Pokud chceš, můžeš i",
-        "de": "Wenn Sie es vorziehen, können Sie auch",
+        "de": "Wenn Sie möchten, können Sie auch",
         "en": "If you'd prefer, you can also",
         "es": "Si lo prefieres, también puedes",
         "it": "Se preferisci, puoi anche",
@@ -804,7 +804,7 @@
     },
     "email.subscription.message.free_trial_expired": {
         "cs-CZ": "Ahoj! Jen ti dávám vědět, že ti skončila zkušební doba předplatného u *{{ newsletter.name }}*. Stále ti ale budou chodit moje běžné e-maily.",
-        "de": "Hallo! Ich möchte Sie darüber informieren, dass Ihre kostenlose Testphase der bezahlten Abonnements bei *{{ newsletter.name }}* abgelaufen ist. Sie erhalten weiterhin die regulären E-Mails, die ich veröffentliche.",
+        "de": "Hallo! Ihre kostenlose Testphase für das Premium-Abo von *{{ newsletter.name }}* ist abgelaufen. Meine regulären Ausgaben erhalten Sie weiterhin.",
         "en": "Hey there! Just letting you know that your free trial of paid subscriptions at *{{ newsletter.name }}* has expired. You'll still receive regular emails that I publish.",
         "es": "¡Hola! Solo quería informarte que tu prueba gratuita de suscripciones de pago en *{{ newsletter.name }}* ha expirado. Seguirás recibiendo los correos electrónicos regulares que publico.",
         "it": "Ciao! Ti informiamo che la tua prova gratuita degli abbonamenti a pagamento su *{{ newsletter.name }}* è scaduta. Continuerai a ricevere le email regolari che pubblico.",
@@ -824,7 +824,7 @@
     },
     "email.subscription.message.gift_subscription_ended": {
         "cs-CZ": "Ahoj!\n\nTvé dárkové předplatné na **{{ newsletter_name }}** skončilo.\n\nOdteď budeš z tohoto newsletteru dostávat už jen nepremiové e-maily (stále zdarma).\n\nOdebíráš dál, ale můžeš to kdykoli běžnými způsoby zrušit.",
-        "de": "Hallo!\n\nIhr Geschenkabonnement für **{{ newsletter_name }}** ist abgelaufen.\n\nSie erhalten jetzt nur noch nicht-premium E-Mails von diesem Newsletter (weiterhin kostenlos).\n\nSie sind weiterhin für den Newsletter angemeldet, können sich aber jederzeit über die üblichen Wege vom Newsletter abmelden.",
+        "de": "Hallo!\n\nIhr Geschenkabonnement für **{{ newsletter_name }}** ist abgelaufen.\n\nSie erhalten ab jetzt nur noch die regulären Ausgaben dieses Newsletters. Diese bleiben für Sie kostenlos.\n\nSie sind weiterhin für den Newsletter angemeldet, können sich aber jederzeit über die üblichen Wege vom Newsletter abmelden.",
         "en": "Hello!\n\nYour gift subscription to **{{ newsletter_name }}** has ended.\n\nYou'll now only receive non-premium emails from this newsletter (still free of charge.)\n\nYou're still subscribed to the newsletter, but you can always unsubscribe from the newsletter via normal channels.",
         "es": "¡Hola!\n\nTu suscripción de regalo a **{{ newsletter_name }}** ha terminado.\n\nAhora solo recibirás correos electrónicos no premium de este boletín (siguen siendo gratuitos).\n\nSigues suscrito al boletín, pero siempre puedes darte de baja del boletín a través de los canales normales.",
         "it": "Ciao!\n\nIl tuo abbonamento regalo a **{{ newsletter_name }}** è terminato.\n\nD'ora in poi riceverai solo le email non premium di questa newsletter (sempre gratuitamente).\n\nSei ancora iscritto alla newsletter, ma puoi sempre annullare l'iscrizione tramite i canali abituali.",
@@ -844,7 +844,7 @@
     },
     "email.subscription.message.gift_subscription_ended_subject": {
         "cs-CZ": "Vaše dárkové předplatné {} skončilo",
-        "de": "Ihre Geschenksubskription für {} ist abgelaufen",
+        "de": "Ihr Geschenkabonnement für {} ist abgelaufen",
         "en": "Your gift subscription to {} has ended",
         "es": "Tu suscripción de regalo a {} ha terminado",
         "fi-FI": "Lahjatilauksesi uutiskirjeeseen {} on päättynyt",
@@ -864,7 +864,7 @@
     },
     "email.subscription.message.gifted_subscription": {
         "cs-CZ": "Dostali jste předplatné {}!",
-        "de": "Du wurdest ein Abonnement für {} erhalten!",
+        "de": "Sie haben ein Abonnement für {} geschenkt bekommen!",
         "en": "You've been gifted a subscription to {}!",
         "es": "Has recibido un suscripción a {}!",
         "fi-FI": "Sait lahjaksi uutiskirjeen {} tilauksen!",
@@ -884,7 +884,7 @@
     },
     "email.subscription.message.if_you_didnt_subscribe": {
         "cs-CZ": "Nevíš, proč ti přišel tenhle e-mail? Nechceš newsletter odebírat? V tom případě tuto zprávu smaž. Pokud na odkaz nahoře neklikneš, přihlášení se nedokončí.",
-        "de": "Wenn Sie diese Liste nicht abonniert haben oder sich nicht sicher sind, warum Sie diese E-Mail erhalten haben, können Sie sie löschen. Sie werden nicht abonniert, wenn Sie nicht auf den obigen Link klicken.",
+        "de": "Wenn Sie diesen Newsletter nicht abonniert haben oder sich nicht sicher sind, warum Sie diese E-Mail erhalten haben, können Sie diese löschen. Solange Sie nicht auf den oberen Link klicken, werden Sie nicht für den Newsletter angemeldet.",
         "en": "If you didn't subscribe to this list or you're not sure why you received this email, you can delete it. You will not be subscribed if you don't click on the link above.",
         "es": "Si no te suscribiste a esta lista o no estás seguro de por qué recibiste este correo electrónico, puedes eliminarlo. No quedarás suscrito si no haces clic en el enlace de arriba.",
         "it": "Se non ti sei iscritto a questa lista o non sei sicuro del motivo per cui hai ricevuto questa email, puoi eliminarla. Non verrai iscritto se non clicchi sul link qui sopra.",
@@ -904,7 +904,7 @@
     },
     "email.subscription.message.interested_in_receiving_all": {
         "cs-CZ": "Chceš dostávat všechny e-maily od {{ newsletter.name }}?",
-        "de": "Interessiert an der vollständigen E-Mail von {{ newsletter.name }}?",
+        "de": "Möchten Sie alle Ausgaben von {{ newsletter.name }} erhalten?",
         "en": "Interested in receiving all emails from {{ newsletter.name }}?",
         "es": "¿Te interesa recibir todos los emails de {{ newsletter.name }}?",
         "it": "Ti interessa ricevere tutte le email di {{ newsletter.name }}?",
@@ -1024,7 +1024,7 @@
     },
     "email.subscription.message.unexpected_notice": {
         "cs-CZ": "(Nečekaný e-mail? Možná jde o omyl. Pro odhlášení klikni [sem]({{ unsubscribe_url }}).)",
-        "de": "(Diese E-Mail nicht erwartet oder nicht absichtlich abonniert? Klicken Sie [hier]({{ unsubscribe_url }}), um sich abzumelden.)",
+        "de": "(Haben Sie diese E-Mail nicht erwartet oder nicht absichtlich abonniert? Klicken Sie [hier]({{ unsubscribe_url }}), um sich abzumelden.)",
         "en": "(Not expecting this email, or didn't mean to subscribe? Click [here]({{ unsubscribe_url }}) to unsubscribe.)",
         "es": "(¿No esperaba este correo o no tenía la intención de suscribirse? Haga clic [aquí]({{ unsubscribe_url }}) para darse de baja.)",
         "it": "(Non ti aspettavi questa email o non intendevi iscriverti? Clicca [qui]({{ unsubscribe_url }}) per annullare l'iscrizione.)",
@@ -1244,7 +1244,7 @@
     },
     "web.action.take_me_to": {
         "cs-CZ": "Vezmi mě na",
-        "de": "Bring mich zu",
+        "de": "Weiter zu",
         "en": "Take me to",
         "es": "Llévame a",
         "it": "Portami a",
@@ -1804,7 +1804,7 @@
     },
     "web.comment.error.account_invalid": {
         "cs-CZ": "Účet není platný.",
-        "de": "Konto ist nicht gültig.",
+        "de": "Account ist ungültig.",
         "en": "Account is not valid.",
         "es": "La cuenta no es válida.",
         "it": "L'account non è valido.",
@@ -1864,7 +1864,7 @@
     },
     "web.comment.error.commenter_invalid": {
         "cs-CZ": "Komentátor není platný.",
-        "de": "Kommentator ist nicht gültig.",
+        "de": "Kommentator ist ungültig.",
         "en": "Commenter is not valid.",
         "es": "El comentarista no es válido.",
         "it": "Il commentatore non è valido.",
@@ -1904,7 +1904,7 @@
     },
     "web.comment.error.email_invalid": {
         "cs-CZ": "E-mailová adresa není platná.",
-        "de": "Die E-Mail-Adresse ist nicht gültig.",
+        "de": "Die E-Mail-Adresse ist ungültig.",
         "en": "The email address is not valid.",
         "es": "La dirección de correo electrónico no es válida.",
         "it": "L'indirizzo email non è valido.",
@@ -2004,7 +2004,7 @@
     },
     "web.comment.error.subscriber_invalid": {
         "cs-CZ": "Odběratel není platný.",
-        "de": "Abonnent ist nicht gültig.",
+        "de": "Abonnent ist ungültig.",
         "en": "Subscriber is not valid.",
         "es": "El suscriptor no es válido.",
         "it": "L'iscritto non è valido.",
@@ -2084,7 +2084,7 @@
     },
     "web.comment.error.text_invalid": {
         "cs-CZ": "Text komentáře není platný.",
-        "de": "Kommentartext ist nicht gültig.",
+        "de": "Kommentartext ist ungültig.",
         "en": "Comment text is not valid.",
         "es": "El texto del comentario no es válido.",
         "it": "Il testo del commento non è valido.",
@@ -2210,7 +2210,7 @@
         "fi-FI": "Haluatko varmasti poistaa tämän kommentin?",
         "fr": "Voulez-vous vraiment supprimer ce commentaire ?",
         "ja-JP": "このコメントを削除してもよろしいですか？",
-        "de": "Möchtest du diesen Kommentar wirklich löschen?",
+        "de": "Möchten Sie diesen Kommentar wirklich löschen?",
         "ne": "के तपाईं पक्का यो टिप्पणी मेटाउन चाहनुहुन्छ?",
         "nb-NO": "Er du sikker på at du vil slette denne kommentaren?",
         "pl-PL": "Czy na pewno chcesz usunąć ten komentarz?",
@@ -2324,7 +2324,7 @@
     },
     "web.email.issue_summary.archives_link": {
         "cs-CZ": "Taky můžeš procházet <a href=\"{{ archive_url }}\">plný archiv</a> tohoto newsletteru.",
-        "de": "Sie können auch durchsuchen <a href=\"{{ archive_url }}\">vollständiges Archiv</a> dieses Newsletters.",
+        "de": "Sie können auch das <a href=\"{{ archive_url }}\">vollständige Archiv</a> dieses Newsletters durchsuchen.",
         "en": "You can also browse the <a href=\"{{ archive_url }}\">full archives</a> of this newsletter.",
         "es": "También puedes explorar <a href=\"{{ archive_url }}\">archivo completo</a> de este boletín.",
         "it": "Puoi anche sfogliare l'<a href=\"{{ archive_url }}\">archivio completo</a> di questa newsletter.",
@@ -2344,7 +2344,7 @@
     },
     "web.email.issue_summary.draft": {
         "cs-CZ": "Právě čteš pracovní verzi vydání {{ newsletter.name }}.",
-        "de": "Sie haben gerade eine Entwurfsausgabe gelesen von {{ newsletter.name }}.",
+        "de": "Sie haben gerade den Entwurf einer Ausgabe von {{ newsletter.name }} gelesen.",
         "en": "You just read a draft issue of {{ newsletter.name }}.",
         "es": "Acabas de leer un borrador de la edición de {{ newsletter.name }}.",
         "it": "Hai appena letto una bozza di {{ newsletter.name }}.",
@@ -2364,7 +2364,7 @@
     },
     "web.email.issue_summary.no_issue_number": {
         "cs-CZ": "Právě čteš vydání {{ newsletter.name }}.",
-        "de": "Sie haben gerade eine Ausgabe von gelesen {{ newsletter.name }}.",
+        "de": "Sie haben gerade eine Ausgabe von {{ newsletter.name }} gelesen.",
         "en": "You just read an issue of {{ newsletter.name }}.",
         "es": "Acabas de leer una edición de {{ newsletter.name }}.",
         "it": "Hai appena letto un'edizione di {{ newsletter.name }}.",
@@ -2384,7 +2384,7 @@
     },
     "web.email.issue_summary.with_issue_number": {
         "cs-CZ": "Právě čteš {{ email.secondary_id }}. vydání {{ newsletter.name }}.",
-        "de": "Sie haben gerade Ausgabe #{{ email.secondary_id }} von {{ newsletter.name }}.",
+        "de": "Sie haben gerade Ausgabe Nr. {{ email.secondary_id }} von {{ newsletter.name }} gelesen.",
         "en": "You just read issue #{{ email.secondary_id }} of {{ newsletter.name }}.",
         "es": "Acabas de leer la edición #{{ email.secondary_id }} de {{ newsletter.name }}.",
         "it": "Hai appena letto l'edizione #{{ email.secondary_id }} di {{ newsletter.name }}.",
@@ -2504,7 +2504,7 @@
     },
     "web.form.hint.select_multiple": {
         "cs-CZ": "Vyberte, kolik chcete",
-        "de": "Wähle so viele aus, wie du möchtest",
+        "de": "Sie können beliebig viele Optionen auswählen.",
         "en": "Pick as many as you like",
         "es": "Elige tantas como quieras",
         "it": "Scegline quante vuoi",
@@ -2964,7 +2964,7 @@
     },
     "web.form.placeholder.what_do_you_think": {
         "cs-CZ": "Co si myslíš?",
-        "de": "Was denkst du?",
+        "de": "Was meinen Sie?",
         "en": "What do you think?",
         "es": "¿Qué piensas?",
         "it": "Cosa ne pensi?",
@@ -3184,7 +3184,7 @@
     },
     "web.message.empty.author_no_emails": {
         "cs-CZ": "Autor tohoto newsletteru zatím nezveřejnil žádné veřejné e-maily! Když to udělá, budou zde.",
-        "de": "Der Autor dieses Newsletters hat noch keine öffentlichen E-Mails veröffentlicht! Wenn sie es tun, werden sie hier sein.",
+        "de": "Bisher gibt es hier keine öffentlichen Ausgaben. Sobald die erste erscheint, finden Sie sie hier.",
         "en": "The author of this newsletter hasn't published any public emails yet! When they do, this is where they'll be.",
         "es": "¡El autor de este boletín aún no ha publicado ningún correo electrónico público! Cuando lo hagan, estarán aquí.",
         "it": "L'autore di questa newsletter non ha ancora pubblicato email pubbliche! Quando lo farà, le troverai qui.",
@@ -3304,7 +3304,7 @@
     },
     "web.message.error.generic": {
         "cs-CZ": "Stala se chyba. Zkus to prosím znovu.",
-        "de": "Ein Fehler ist aufgetreten. Bitte versuche es erneut.",
+        "de": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
         "en": "An error occurred. Please try again.",
         "es": "Se ha producido un error. Por favor, inténtalo de nuevo.",
         "it": "Si è verificato un errore. Riprova.",
@@ -5530,7 +5530,7 @@
         "fi-FI": "Päivitä tilauksesi: {{ newsletter.name }}",
         "fr": "Mettez à jour votre abonnement à {{ newsletter.name }}",
         "ja-JP": "{{ newsletter.name }} の購読を更新",
-        "de": "Aktualisiere dein Abonnement von {{ newsletter.name }}",
+        "de": "Ihr Abonnement von {{ newsletter.name }} aktualisieren",
         "ne": "{{ newsletter.name }} को तपाईंको सदस्यता अद्यावधिक गर्नुहोस्",
         "nb-NO": "Oppdater abonnementet ditt på {{ newsletter.name }}",
         "pl-PL": "Zaktualizuj swoją subskrypcję {{ newsletter.name }}",
@@ -6070,7 +6070,7 @@
     },
     "web.subscription.label.your_preferences": {
         "cs-CZ": "Tvé nastavení",
-        "de": "Deine Einstellungen",
+        "de": "Ihre Einstellungen",
         "en": "Your preferences",
         "es": "Tus preferencias",
         "it": "Le tue preferenze",
@@ -6130,7 +6130,7 @@
     },
     "web.subscription.label.your_subscription": {
         "cs-CZ": "Tvé předplatné",
-        "de": "Dein Abonnement",
+        "de": "Ihr Abonnement",
         "en": "Your subscription",
         "es": "Tu suscripción",
         "it": "Il tuo abbonamento",
@@ -6730,7 +6730,7 @@
     },
     "web.subscription.message.read_latest_edition": {
         "cs-CZ": "Přečti si nejnovější vydání",
-        "de": "Lies die neueste Ausgabe",
+        "de": "Neueste Ausgabe lesen",
         "en": "Read the latest edition",
         "es": "Lee la última edición",
         "it": "Leggi l'ultima edizione",
@@ -6916,7 +6916,7 @@
         "fi-FI": "Haluatko varmasti peruuttaa tilauksen? Et saa enää sähköposteja tästä uutiskirjeestä.",
         "fr": "Voulez-vous vraiment vous désabonner ? Vous ne recevrez plus d'e-mails de cette newsletter.",
         "ja-JP": "本当に購読を解除しますか？このニュースレターからのメールは今後届かなくなります。",
-        "de": "Möchtest du dich wirklich abmelden? Du erhältst dann keine E-Mails mehr von diesem Newsletter.",
+        "de": "Möchten Sie sich wirklich abmelden? Sie erhalten dann keine E-Mails mehr von diesem Newsletter.",
         "ne": "के तपाईं पक्का सदस्यता रद्द गर्न चाहनुहुन्छ? तपाईंले अब यो न्युजलेटरबाट इमेलहरू प्राप्त गर्नुहुने छैन।",
         "nb-NO": "Er du sikker på at du vil melde deg av? Du vil ikke lenger motta e-poster fra dette nyhetsbrevet.",
         "pl-PL": "Czy na pewno chcesz zrezygnować z subskrypcji? Nie będziesz już otrzymywać e-maili z tego newslettera.",
@@ -6936,7 +6936,7 @@
         "fi-FI": "Anna kelvollinen sähköpostiosoite",
         "fr": "Veuillez saisir une adresse e-mail valide",
         "ja-JP": "有効なメールアドレスを入力してください",
-        "de": "Bitte gib eine gültige E-Mail-Adresse ein",
+        "de": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
         "ne": "कृपया मान्य इमेल ठेगाना प्रविष्ट गर्नुहोस्",
         "nb-NO": "Skriv inn en gyldig e-postadresse",
         "pl-PL": "Wprowadź prawidłowy adres e-mail",
@@ -7896,7 +7896,7 @@
         "fi-FI": "Kommenttisi",
         "fr": "Vos commentaires",
         "ja-JP": "あなたのコメント",
-        "de": "Deine Kommentare",
+        "de": "Ihre Kommentare",
         "ne": "तपाईंका टिप्पणीहरू",
         "nb-NO": "Kommentarene dine",
         "pl-PL": "Twoje komentarze",
@@ -7950,7 +7950,7 @@
     },
     "web.subscription.badge.save_percent": {
         "cs-CZ": "Ušetřete {{ percent }} %",
-        "de": "Spare {{ percent }} %",
+        "de": "{{ percent }} % sparen",
         "en": "Save {{ percent }}%",
         "es": "Ahorra {{ percent }} %",
         "it": "Risparmia {{ percent }}%",
@@ -7990,7 +7990,7 @@
     },
     "web.subscription.message.cancel_confirm": {
         "cs-CZ": "Opravdu chcete zrušit své předplatné? Přístup vám zůstane do konce aktuálního zúčtovacího období a kdykoli předtím jej můžete znovu aktivovat.",
-        "de": "Möchtest du dein Abonnement wirklich kündigen? Du behältst den Zugang bis zum Ende deines aktuellen Abrechnungszeitraums und kannst es jederzeit vorher reaktivieren.",
+        "de": "Möchten Sie Ihr Abonnement wirklich kündigen? Sie behalten Ihren Zugang bis zum Ende des aktuellen Abrechnungszeitraums. Bis dahin können Sie Ihr Abonnement jederzeit reaktivieren.",
         "en": "Are you sure you want to cancel your subscription? You'll keep access until the end of your current billing period, and you can reactivate anytime before then.",
         "es": "¿Seguro que quieres cancelar tu suscripción? Mantendrás el acceso hasta el final de tu periodo de facturación actual y podrás reactivarla en cualquier momento antes de entonces.",
         "it": "Sei sicuro di voler annullare il tuo abbonamento? Manterrai l'accesso fino alla fine del periodo di fatturazione attuale e potrai riattivarlo in qualsiasi momento prima di allora.",
@@ -8036,7 +8036,7 @@
         "fi-FI": "Tämä kortti hylättiin {{ premium.declined_on }}. Päivitä se palauttaaksesi käyttöoikeuden.",
         "fr": "Cette carte a été refusée le {{ premium.declined_on }}. Mettez-la à jour pour rétablir l'accès.",
         "ja-JP": "このカードは {{ premium.declined_on }} に拒否されました。アクセスを回復するには更新してください。",
-        "de": "Diese Karte wurde am {{ premium.declined_on }} abgelehnt. Aktualisiere sie, um den Zugang wiederherzustellen.",
+        "de": "Diese Karte wurde am {{ premium.declined_on }} abgelehnt. Aktualisieren Sie Ihre Kartendaten, um den Zugang wiederherzustellen.",
         "ne": "यो कार्ड {{ premium.declined_on }} मा अस्वीकृत भयो। पहुँच पुनःस्थापना गर्न यसलाई अद्यावधिक गर्नुहोस्।",
         "nb-NO": "Dette kortet ble avvist {{ premium.declined_on }}. Oppdater det for å gjenopprette tilgangen.",
         "pl-PL": "Ta karta została odrzucona {{ premium.declined_on }}. Zaktualizuj ją, aby przywrócić dostęp.",
@@ -8056,7 +8056,7 @@
         "fi-FI": "Hae RSS-syöte julkaisuillesi.",
         "fr": "Récupérez le flux RSS de vos publications.",
         "ja-JP": "投稿の RSS フィードを取得しましょう。",
-        "de": "Hol dir den RSS-Feed für deine Beiträge.",
+        "de": "Hier finden Sie den RSS-Feed für Ihre Beiträge.",
         "ne": "आफ्ना पोस्टहरूको लागि RSS फिड लिनुहोस्।",
         "nb-NO": "Hent RSS-feeden for innleggene dine.",
         "pl-PL": "Pobierz kanał RSS dla swoich postów.",
