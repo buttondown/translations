@@ -7168,6 +7168,26 @@
         "et": "Küsitlus on vastatud",
         "ja-JP": "アンケート完了"
     },
+    "web.survey.message.confirm_to_respond": {
+        "cs-CZ": "Potvrďte svou adresu a vaši odpověď zaznamenáme.",
+        "de": "Bestätigen Sie Ihre Adresse, dann speichern wir Ihre Antwort.",
+        "en": "Confirm your address and we'll record your answer.",
+        "es": "Confirma tu dirección y registraremos tu respuesta.",
+        "it": "Conferma il tuo indirizzo e registreremo la tua risposta.",
+        "fi-FI": "Vahvista osoitteesi, niin tallennamme vastauksesi.",
+        "fr": "Confirmez votre adresse et nous enregistrerons votre réponse.",
+        "nl-NL": "Bevestig je adres en we slaan je antwoord op.",
+        "pl-PL": "Potwierdź swój adres, a zapiszemy Twoją odpowiedź.",
+        "pt-BR": "Confirme seu endereço e registraremos sua resposta.",
+        "pt-PT": "Confirme o seu endereço e registaremos a sua resposta.",
+        "ru": "Подтвердите свой адрес, и мы сохраним ваш ответ.",
+        "tr": "Adresinizi onaylayın, yanıtınızı kaydedelim.",
+        "sv-SE": "Bekräfta din adress så sparar vi ditt svar.",
+        "nb-NO": "Bekreft adressen din, så registrerer vi svaret ditt.",
+        "ne": "आफ्नो ठेगाना पुष्टि गर्नुहोस् र हामी तपाईंको जवाफ रेकर्ड गर्नेछौं।",
+        "et": "Kinnita oma aadress ja me salvestame su vastuse.",
+        "ja-JP": "アドレスを確認すると、回答が記録されます。"
+    },
     "web.survey.message.from": {
         "cs-CZ": "Průzkum od",
         "de": "Die Umfrage von",
