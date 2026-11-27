@@ -7148,6 +7148,26 @@
         "et": "Juba vastatud küsimustik",
         "ja-JP": "このアンケートは回答済みです"
     },
+    "web.survey.message.closed": {
+        "cs-CZ": "Tento průzkum je uzavřen.",
+        "de": "Diese Umfrage ist geschlossen.",
+        "en": "This survey is closed.",
+        "es": "Esta encuesta está cerrada.",
+        "it": "Questo sondaggio è chiuso.",
+        "fi-FI": "Tämä kysely on suljettu.",
+        "fr": "Ce sondage est terminé.",
+        "nl-NL": "Deze enquête is gesloten.",
+        "pl-PL": "Ta ankieta jest zamknięta.",
+        "pt-BR": "Esta pesquisa está encerrada.",
+        "pt-PT": "Este inquérito está encerrado.",
+        "ru": "Этот опрос закрыт.",
+        "tr": "Bu anket kapandı.",
+        "sv-SE": "Den här enkäten är stängd.",
+        "nb-NO": "Denne undersøkelsen er avsluttet.",
+        "ne": "यो सर्वेक्षण बन्द भएको छ।",
+        "et": "See küsitlus on suletud.",
+        "ja-JP": "このアンケートは終了しました。"
+    },
     "web.survey.message.complete": {
         "cs-CZ": "Průzkum dokončen",
         "de": "Umfrage abgeschlossen",
